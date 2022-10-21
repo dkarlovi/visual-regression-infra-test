@@ -1,0 +1,45 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b7a90391597f70b5d9d16677a9bf40c3",
+    "packages": [
+        {
+            "name": "sigwin/infra",
+            "version": "0.12.8",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sigwinhq/infra.git",
+                "reference": "d9ad40661bd194bfad43bed974db0d223ec0e53f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sigwinhq/infra/zipball/d9ad40661bd194bfad43bed974db0d223ec0e53f",
+                "reference": "d9ad40661bd194bfad43bed974db0d223ec0e53f",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Sigwin's default per-project infra",
+            "support": {
+                "issues": "https://github.com/sigwinhq/infra/issues",
+                "source": "https://github.com/sigwinhq/infra/tree/0.12.8"
+            },
+            "time": "2022-10-21T08:07:50+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
